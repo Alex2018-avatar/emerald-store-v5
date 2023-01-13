@@ -1,0 +1,15 @@
+{
+  "ProductFilter": {
+    "Labels": {
+      "filterBy": "筛选方式",
+      "price": "价格",
+      "minPrice": "分钟",
+      "maxPrice": "最大值"
+    },
+    "Actions": {
+      "showMore": "显示更多",
+      "showLess": "显示更少",
+      "Go": "前往"
+    }
+  }
+}

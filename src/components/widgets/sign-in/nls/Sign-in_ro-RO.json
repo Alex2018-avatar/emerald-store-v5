@@ -1,0 +1,13 @@
+{
+  "SignIn": {
+    "ReturningCustomer": "Client care se întoarce",
+    "Password": "Parolă",
+    "RememberMe": "Reține-mă",
+    "SignInButton": "Autentificare",
+    "ForgotPassword": "Parola uitată",
+    "Label": {
+      "B2B": "ID conectare",
+      "Email": "Adresă e-mail"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "Shipping": {
+    "Title": "Dettagli spedizione",
+    "Labels": {
+      "UseMultiple": "Spedisci a più indirizzi",
+      "ShippingAddress": "Indirizzo di spedizione",
+      "ShippingMethod": "Metodo di spedizione",
+      "SelectShippingMethod": "Scegliere il metodo di consegna.",
+      "AddNewAddress": "Aggiungi nuovo indirizzo",
+      "EditAddress": "Modifica indirizzo"
+    },
+    "Actions": {
+      "SelectAddress": "Usa questo indirizzo",
+      "CreateNew": "Crea nuovo indirizzo",
+      "Next": "Procedi al pagamento"
+    },
+    "Msgs": {
+      "UseSavedAddress": "Oppure selezionare un indirizzo salvato da usare:",
+      "SelectShippingAddress": "Selezionare prima un indirizzo di spedizione."
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "RegistrationLayout": {
+    "NewCustomer": "Nowy klient?",
+    "FirstName": "Imię",
+    "LastName": "Nazwisko",
+    "Email": "Adres e-mail",
+    "Phone": "Telefon (opcjonalny)",
+    "Password": "Hasło",
+    "VerifyPassword": "Potwierdź hasło",
+    "TextContent": "Otrzymuj pomysły dotyczące architektury wnętrz wysyłane do Twojej skrzynki odbiorczej",
+    "Register": "Zarejestruj",
+    "Msgs": {
+      "InvalidFormat": "Nieprawidłowy format"
+    }
+  }
+}

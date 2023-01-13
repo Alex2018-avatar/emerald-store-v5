@@ -1,0 +1,8 @@
+{
+  "OrderBillingInfo": {
+    "Title": "Informações de cobrança",
+    "Labels": {
+      "BillAddress": "Endereço de cobrança"
+    }
+  }
+}
